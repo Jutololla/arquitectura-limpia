@@ -1,0 +1,13 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: "libro"
+  devtools:
+    add-properties: false
+
+  profiles:
+    include: null
+  data:
+    mongodb:
+      uri: "mongodb://localhost:27017/libro"
