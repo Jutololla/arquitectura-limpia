@@ -8,7 +8,7 @@ Lee el artículo [Clean Architecture — Aislando los detalles](https://medium.com/
 
 # Arquitectura
 
-![Clean Architecture](https://miro.medium.com/max/1400/1*ZdlHz8B0-qu9Y-QO3AXR_w.png)
+![Diagrama](https://user-images.githubusercontent.com/87050059/139953733-b4865bba-abb6-4ec5-9b9b-37ef64f20f56.png) 
 
 ## Domain
 
